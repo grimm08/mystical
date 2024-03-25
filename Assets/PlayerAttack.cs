@@ -1,0 +1,25 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlayerAttack : MonoBehaviour
+{
+
+
+  
+
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("Enemy take damage");
+            collision.gameObject.GetComponent<EnemyDying>().EnemyIsDying();
+           // Destroy(collision.gameObject);
+
+        }
+
+
+
+    }
+}

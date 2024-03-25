@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 2cd0777ded7db45d0a9679b8dbd58df0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -165849571411058502
+    second: Wizard-idle_0
+  - first:
+      213: -8571270524791675223
+    second: Wizard-idle_1
+  - first:
+      213: -5916559806500586570
+    second: Wizard-idle_2
+  - first:
+      213: -6868188916093949288
+    second: Wizard-idle_3
+  - first:
+      213: -7300459832733590221
+    second: Wizard-idle_4
+  - first:
+      213: 2486661500486998502
+    second: Wizard-idle_5
+  - first:
+      213: -8108385389911623249
+    second: Wizard-idle_6
+  - first:
+      213: 3585614274878919762
+    second: Wizard-idle_7
+  - first:
+      213: 6935767656261653639
+    second: Wizard-idle_8
+  - first:
+      213: 4086077926356776922
+    second: Wizard-idle_9
+  - first:
+      213: 5889472832203757317
+    second: Wizard-idle_10
+  - first:
+      213: -608751882846258465
+    second: Wizard-idle_11
+  - first:
+      213: 3944385048854656402
+    second: Wizard-idle_12
+  - first:
+      213: -702927019306680045
+    second: Wizard-idle_13
+  - first:
+      213: -8449473633614346680
+    second: Wizard-idle_14
+  - first:
+      213: 72683115554461511
+    second: Wizard-idle_15
+  - first:
+      213: -6965243376142146665
+    second: Wizard-idle_16
+  - first:
+      213: -5216315829067871000
+    second: Wizard-idle_17
+  - first:
+      213: -1064101398210260380
+    second: Wizard-idle_18
+  - first:
+      213: 4216221095497357168
+    second: Wizard-idle_19
+  - first:
+      213: -7023389862798815785
+    second: Wizard-idle_20
+  - first:
+      213: -9189966787017625849
+    second: Wizard-idle_21
+  - first:
+      213: 2714770133474964961
+    second: Wizard-idle_22
+  - first:
+      213: -1849166034589811596
+    second: Wizard-idle_23
+  - first:
+      213: -2382851593788735087
+    second: Wizard-idle_24
+  - first:
+      213: 8912651961067434996
+    second: Wizard-idle_25
+  - first:
+      213: 4928488534031044786
+    second: Wizard-idle_26
+  - first:
+      213: 1701265243470972081
+    second: Wizard-idle_27
+  - first:
+      213: -6811664081894995660
+    second: Wizard-idle_28
+  - first:
+      213: -2400298829668966917
+    second: Wizard-idle_29
+  - first:
+      213: 2580108826363591135
+    second: Wizard-idle_30
+  - first:
+      213: 2021073592833266193
+    second: Wizard-idle_31
+  - first:
+      213: -3602735595060243588
+    second: Wizard-idle_32
+  - first:
+      213: -6855075713474557059
+    second: Wizard-idle_33
+  - first:
+      213: -4329795944334374204
+    second: Wizard-idle_34
+  - first:
+      213: 3833225609650169394
+    second: Wizard-idle_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wizard-idle_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 6882
+        width: 876
+        height: 1151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0a4e981b8c2bdf0800000000000000
+      internalID: -165849571411058502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_1
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 6898
+        width: 899
+        height: 1140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62408cedabc0980800000000000000
+      internalID: -8571270524791675223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_2
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 6902
+        width: 902
+        height: 1140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbbd29043824eda0800000000000000
+      internalID: -5916559806500586570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_3
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 6902
+        width: 905
+        height: 1140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae1fde19a4fa0a0800000000000000
+      internalID: -6868188916093949288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_4
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 6902
+        width: 898
+        height: 1144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d18ec267e8faa90800000000000000
+      internalID: -7300459832733590221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_5
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 6902
+        width: 894
+        height: 1144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9da25b575628220800000000000000
+      internalID: 2486661500486998502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_6
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 6902
+        width: 890
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9b95ca27a397f80800000000000000
+      internalID: -8108385389911623249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5578
+        width: 876
+        height: 1151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545ab38f29a2c130800000000000000
+      internalID: 3585614274878919762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_8
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 5594
+        width: 883
+        height: 1152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7849e14afebc04060800000000000000
+      internalID: 6935767656261653639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_9
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 5594
+        width: 876
+        height: 1160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad77f0d993aa4b830800000000000000
+      internalID: 4086077926356776922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_10
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 5594
+        width: 879
+        height: 1160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50791dd465c9bb150800000000000000
+      internalID: 5889472832203757317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_11
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 5594
+        width: 876
+        height: 1160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda399a43674d87f0800000000000000
+      internalID: -608751882846258465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_12
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 5594
+        width: 876
+        height: 1160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295f75ebd454db630800000000000000
+      internalID: 3944385048854656402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_13
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 5594
+        width: 876
+        height: 1160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3118337a993be36f0800000000000000
+      internalID: -702927019306680045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4274
+        width: 876
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84643695f707dba80800000000000000
+      internalID: -8449473633614346680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_15
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 4290
+        width: 878
+        height: 1156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747dac398e8320100800000000000000
+      internalID: 72683115554461511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_16
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 4290
+        width: 876
+        height: 1156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a7e68d0c765f90800000000000000
+      internalID: -6965243376142146665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_17
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 4290
+        width: 879
+        height: 1152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec8924046ceb97b0800000000000000
+      internalID: -5216315829067871000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_18
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 4290
+        width: 876
+        height: 1151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4625eaa8a6d8b31f0800000000000000
+      internalID: -1064101398210260380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_19
+      rect:
+        serializedVersion: 2
+        x: 5502
+        y: 4290
+        width: 876
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d0a37fb6038a30800000000000000
+      internalID: 4216221095497357168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_20
+      rect:
+        serializedVersion: 2
+        x: 6578
+        y: 4286
+        width: 876
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0ccc9128e78e90800000000000000
+      internalID: -7023389862798815785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2974
+        width: 879
+        height: 1144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f2d22d5eda67080800000000000000
+      internalID: -9189966787017625849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_22
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2986
+        width: 876
+        height: 1156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57d9c8d0dcca520800000000000000
+      internalID: 2714770133474964961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_23
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 2986
+        width: 876
+        height: 1156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c7e81f9417656e0800000000000000
+      internalID: -1849166034589811596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_24
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 2982
+        width: 879
+        height: 1144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191cfbfa9196eeed0800000000000000
+      internalID: -2382851593788735087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_25
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 2974
+        width: 876
+        height: 1151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3fc12ccb910bb70800000000000000
+      internalID: 8912651961067434996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1670
+        width: 887
+        height: 1147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0918e9532856440800000000000000
+      internalID: 4928488534031044786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_27
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1682
+        width: 876
+        height: 1156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b44ec9a9bb1c9710800000000000000
+      internalID: 1701265243470972081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_28
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1682
+        width: 876
+        height: 1152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4398c557b9b1871a0800000000000000
+      internalID: -6811664081894995660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_29
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1674
+        width: 879
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd9bc68eec60bed0800000000000000
+      internalID: -2400298829668966917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_30
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 1670
+        width: 876
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9704dbe436ec320800000000000000
+      internalID: 2580108826363591135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 370
+        width: 894
+        height: 1143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112dfbd79bb4c0c10800000000000000
+      internalID: 2021073592833266193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_32
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 378
+        width: 876
+        height: 1156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7357cc7013800ec0800000000000000
+      internalID: -3602735595060243588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_33
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 378
+        width: 876
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b01f555f0edd0a0800000000000000
+      internalID: -6855075713474557059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_34
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 366
+        width: 879
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac504678979e3c0800000000000000
+      internalID: -4329795944334374204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard-idle_35
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 362
+        width: 876
+        height: 1148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e027f16a523530800000000000000
+      internalID: 3833225609650169394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
